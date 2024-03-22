@@ -43,7 +43,7 @@ Registeration Number : 212221040171
 */
 ```
 ## ActivityMain.XML:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -83,9 +83,9 @@ Registeration Number : 212221040171
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ## MainActivity.Java
-
+```
 package com.example.implicit_intent;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
+```
 ## OUTPUT
 
 ![implicit](https://github.com/Thirualpha/ImplicitIntent-MAD/assets/113031702/fb65fd65-2683-4cae-bfbb-2ab7f75d9447)
